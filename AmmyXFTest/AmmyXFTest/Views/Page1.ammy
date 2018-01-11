@@ -1,0 +1,5 @@
+﻿ContentPage "AmmyXFTest.Views.Page1" {
+	Label {
+		"Test"
+	}
+}
